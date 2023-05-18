@@ -1,5 +1,3 @@
-# DeFerence3.github.io
+# Calculator
 
-
-just made a test site
-just adds two numbers 
+You know how a calculator works, isn't it :)
