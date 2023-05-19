@@ -6,55 +6,55 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+}
 
-    .container{
-        background-color: #303030;
-        border-radius: 20px;
-        align-content: center;
+.container{
+    background-color: #303030;
+    border-radius: 20px;
+    align-content: center;
+}
 
-        .result{
-            border:20px;
-		    border-radius:20px;
-		    color:#e7940e ;
-		    padding:15px;
-		    font-size: 20px;
-            font-weight: bolder;
-            margin: 8px;
-            min-height: 75px;
+.result{
+    border:20px;
+    border-radius:20px;
+    color:#e7940e ;
+    padding:15px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 8px;
+    min-height: 75px;
+}
 
-            .resultscreen{
-                background: transparent;
-                border-radius: 20px;
-                border: 20px;
-                height: 20%;
-                width: 100%;
-            }
-        }
+.resultscreen{
+    background: transparent;
+    border-radius: 20px;
+    border: 20px;
+    height: 20%;
+    width: 100%;
+}
 
-        .numspad{
-            background-color:#4C76E2;
-            padding:20px;
-            border-radius:20px;
-            font-size:25px;
-            max-width:320px;
-            display: flex;
-            justify-content: space-around;
+.numspad{
+    background-color:#4C76E2;
+    padding:20px;
+    border-radius:20px;
+    font-size:25px;
+    max-width:320px;
+    display: flex;
+    justify-content: space-around;
+}
 
-            .table{
-                width:5;
-                margin-left:auto;
-                margin-right:auto;
+.table{
+    width:5;
+    margin-left:auto;
+    margin-right:auto;
+}
 
-                .numbtn{
-                    border:20px;
-                    border-radius:15px;
-                    background-color:#e0e8e2 ;
-                    font-size: 16px;
-                    margin: 4px 4px;
-                    height:45px;
-                    width:45px;
-                }
-            }
-        }
-    }
+.numbtn{
+    border:20px;
+    border-radius:15px;
+    background-color:#e0e8e2 ;
+    font-size: 16px;
+    margin: 4px 4px;
+    height:45px;
+    width:45px;
 }
