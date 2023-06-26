@@ -2,5 +2,7 @@
 
 .firebase
 
+firebase.json
+
 firebase.js
 node_modules
